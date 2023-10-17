@@ -12,5 +12,8 @@ To start the app execute in the terminal:
 To load the app in the browser:
 -> enter the url: localhost:8080
 
+![main](https://github.com/jlgsousa/EbfProject/assets/24255401/f140fa56-f8d6-4c08-a681-06769847d14a)
+
+
 Best regards
 João Sousa

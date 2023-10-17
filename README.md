@@ -1,4 +1,4 @@
-# EbfProject
+# Employee Small Spring Boot Project
 
 In order to start the App both Java and Maven are required.
 
